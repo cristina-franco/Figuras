@@ -10,6 +10,8 @@ public class Test {
 
         System.out.println("Mi circunferencia es: "+ circle.calculatePerimeter()+ " y el area es: " + circle.calculateArea());
         
+        System.out.println("Fin del progama");
+        
 	}
 
 }
