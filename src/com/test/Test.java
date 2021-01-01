@@ -8,10 +8,8 @@ public class Test {
 
         System.out.println(circle.toString());
 
-        System.out.println("Mi circunferencia es: "+ circle.calculatePerimeter());
-
-        System.out.println("Mi area es: " + circle.calculateArea());
-
+        System.out.println("Mi circunferencia es: "+ circle.calculatePerimeter()+ " y el area es: " + circle.calculateArea());
+        
 	}
 
 }
